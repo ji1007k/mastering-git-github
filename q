@@ -1,0 +1,91 @@
+[33mcommit 9a028a686d5d32cf49eae04175d42f5f60d982d3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mconflict-test[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Mon Sep 23 18:09:23 2024 +0900
+
+    test
+
+[33mcommit acdeba9641a4371c2d1ddc50d38fa7a61e758ed0[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 23:09:24 2024 +0900
+
+    Add test case
+
+[33mcommit bb75d0cc53492b5be6210e4db0aa5ad7d1cfab4a[m[33m ([m[1;32mfeature/body-change[m[33m)[m
+Merge: 89a6fbc 2281428
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 22:29:50 2024 +0900
+
+    Merge pull request #3 from ji1007k/feature/change-main-content
+    
+    Change content in main page
+
+[33mcommit 2281428efcfbe1f22bc033de33352f17a30e47ec[m[33m ([m[1;31morigin/feature/change-main-content[m[33m, [m[1;32mfeature/change-main-content[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 22:22:34 2024 +0900
+
+    Change content in main page
+
+[33mcommit 89a6fbcc7529c8d30be12155aa039026bc4263da[m
+Merge: c5a6738 6d21711
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 22:05:54 2024 +0900
+
+    Merge pull request #1 from ji1007k/feature/body-change
+    
+    Change body content
+
+[33mcommit 6d217116772af38f12d310c32cff6c41a7acf977[m[33m ([m[1;31morigin/feature/body-change[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:54:18 2024 +0900
+
+    Change body
+
+[33mcommit 492be442cf7b248f6f962fcd72307d3cdc007f77[m
+Merge: ee0f8ac dd70b21
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:28:50 2024 +0900
+
+    Resolve conflicts
+
+[33mcommit dd70b2172f0da9acfa61a7aaed8daf99f3106131[m[33m ([m[1;32mtest/remote-branch[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:27:10 2024 +0900
+
+    Change header
+
+[33mcommit ee0f8ac431ed2e2e67b3c4d9b6048bd02a9106fb[m
+Merge: f5c6ca5 d1be207
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:20:20 2024 +0900
+
+    Merge branch 'test/local-branch'
+
+[33mcommit d1be207e6eb14085b078beef829e54a5b410728d[m[33m ([m[1;32mtest/local-branch[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:19:59 2024 +0900
+
+    Change header
+
+[33mcommit f5c6ca583d95370677511ebddd48007552f94077[m[33m ([m[1;32mtest/fast-forward[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 21:15:12 2024 +0900
+
+    Change title
+
+[33mcommit c5a6738913fd1180ae388ed0c704ca83bcd7ac09[m[33m ([m[1;31morigin/test/remote-branch[m[33m, [m[1;31morigin/test/local-branch[m[33m)[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 18:22:52 2024 +0900
+
+    Add hotline to main page
+
+[33mcommit df69ceea2e8b8025e4f764f63f147e2cea030a53[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 18:19:43 2024 +0900
+
+    Change the title of main page
+
+[33mcommit 40db7041e1198589b87166fbc2e3075f59a0c03f[m
+Author: ji1007k <ji1007k@gmail.com>
+Date:   Sat Sep 21 18:08:28 2024 +0900
+
+    Add initial files and .gitignore
